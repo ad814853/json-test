@@ -1,14 +1,12 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 4" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "ad814853"
+[
+  {
+    "id":"1",
+    "description" : "This is sample text"
+    "image" : "https://www.gstatic.com/webp/gallery/1.sm.jpg"
+  },
+    {
+    "id":"2",
+    "description" : "This is sample text 2"
+    "image" : "https://www.gstatic.com/webp/gallery/1.sm.jpg"
   }
-}
+]
