@@ -1,12 +1,12 @@
 [
   {
     "id":"1",
-    "description" : "This is sample text"
+    "description" : "This is sample text",
     "image" : "https://www.gstatic.com/webp/gallery/1.sm.jpg"
   },
     {
     "id":"2",
-    "description" : "This is sample text 2"
+    "description" : "This is sample text 2",
     "image" : "https://www.gstatic.com/webp/gallery/1.sm.jpg"
   }
 ]
